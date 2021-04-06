@@ -16,6 +16,11 @@ public class DanielHernandez {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String nombre = "pepe";
+        Comercial comerciales[] = new Comercial[10];
+        comerciales[1] = new Comercial(nombre, 300);
+
+        comerciales[1].toString();
     }
 
 }
