@@ -10,6 +10,7 @@ package daniel.hernandez;
  * @author admin
  */
 public class Comercial {
+
     private String nombre;
     private int sueldo;
 
@@ -17,7 +18,5 @@ public class Comercial {
         this.nombre = nombre;
         this.sueldo = sueldo;
     }
-    
-    
-    
+
 }
